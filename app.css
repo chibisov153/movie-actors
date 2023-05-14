@@ -1,19 +1,19 @@
 @font-face {
   font-family: "game-of-thrones";
   font-display: swap;
-  src: local("game-of-thrones"), url("../movie-actors/fonts/game_of_thrones_kg.woff2") format("truetype");
+  src: local("game-of-thrones"), url("../fonts/game_of_thrones_kg.woff2") format("truetype");
 }
 
 @font-face {
   font-family: "Roboto-Regular";
   font-display: swap;
-  src: local("Roboto-Regular"), url("../movie-actors/fonts/Roboto-Regular.ttf") format("truetype");
+  src: local("Roboto-Regular"), url("../fonts/Roboto-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "monument-extended";
   font-display: swap;
-  src: local("monument-extended"), url("../movie-actors/fonts/monument-extended-3.ttf") format("truetype");
+  src: local("monument-extended"), url("../fonts/monument-extended-3.ttf") format("truetype");
 }
 
 * {
@@ -109,5 +109,3 @@ img {
   width: 100%;
   vertical-align: bottom;
 }
-
-
