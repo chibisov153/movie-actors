@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --open",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "gsap": "^3.11.4",
+    "nuxt": "^3.3.0",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0"
+  }
+}
